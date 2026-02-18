@@ -1,0 +1,593 @@
+Directory structure:
+└── mlh-mlh-hack-days-organizer-guide/
+    ├── README.md
+    ├── devpost-for-hack-days.md
+    ├── frequently-asked-questions-faq.md
+    ├── organizerhq-tutorial.md
+    ├── reimbursements.md
+    ├── SUMMARY.md
+    ├── swag.md
+    ├── event-planning-guide/
+    │   ├── README.md
+    │   ├── hack-day-guide-for-school-administrators.md
+    │   ├── hack-day-planning-timeline.md
+    │   ├── photography.md
+    │   ├── project-submissions-and-judging.md
+    │   └── so-youre-thinking-about-organizing-a-hack-day.md
+    └── partner-details/
+        ├── github.md
+        ├── google-gemini.md
+        ├── mongodb.md
+        └── snowflake.md
+
+================================================
+FILE: README.md
+================================================
+# About Hack Days
+
+Hack Days are 12-hour-or-less, in-person mini hackathons powered by Major League Hacking (MLH) and our amazing partners (like Google, MongoDB, and GitHub). MLH wants organizers and hackers to have time and space to hack outside of full weekend-long hackathons. Weekend-long hackathons are awesome, and we help host over 250 a year, but Hack Days are specifically designed to be lower-lift and easier for organizers to host.&#x20;
+
+Simultaneously, Large Language Models and Generative AI have made it more possible than ever to build a cool hack in less time. We really believe this is an exciting moment to bring mini-hackathons to the community at large.&#x20;
+
+_**This website exists primarily as documentation for Hack Day Organizers. Not Hack Day hackers and attendees.**_&#x20;
+
+{% hint style="info" %}
+**Start Your Application:** [**https://organize.mlh.io/host/google-gemini-hack-days**](https://organize.mlh.io/host/google-gemini-hack-days)
+{% endhint %}
+
+### **How does organizing a Hack Day work?**&#x20;
+
+Here's the high-level overview of the steps. Make sure to check out the complete guide for all the details.&#x20;
+
+1. **Apply to host a Hack Day.** You can do this right now. It just takes a few minutes.
+2. **Secure a venue.** Wherever your club or community typically meets is fine. This can be as simple as a room reservation at the library.&#x20;
+3. **No Website Required.** Attendee registration is entirely through MLH's OrganizerHQ platform. Once your application is approved, start collecting registrations for the event.
+4. **Receive Swag.** As your Hack Day nears, we will ship you a physical swag pack for your attendees. This will include prizes, stickers, and swag.&#x20;
+5. **Order Food and Snacks.** We recommend planning ahead, but ordering once you have a confirmed count of hackers.
+6. **Get Reimbursed.** We'll reimburse you up to 350 USD for food, snacks, and other event expenses. For each hacker who checks into your event, you receive 7 USD.&#x20;
+   1. _We can only reimburse you for the money you spent on the event._&#x20;
+   2. _If you're outside the US, the amount we reimburse changes. See Reimbursements for more info._&#x20;
+
+
+
+================================================
+FILE: devpost-for-hack-days.md
+================================================
+# Devpost for Hack Days
+
+More content coming soon :tm:
+
+
+
+================================================
+FILE: frequently-asked-questions-faq.md
+================================================
+---
+description: >-
+  These are some of the most frequently asked questions about hosting a Hack
+  Day. If your question isn't listed here, feel free to email us at
+  hackdays@mlh.io.
+---
+
+# Frequently Asked Questions (FAQ)
+
+### Where do I apply?
+
+You apply through OrganizerHQ. Here's a direct link: [organize.mlh.io/host/google-gemini-hack-days](https://organize.mlh.io/host/google-gemini-hack-days)
+
+### When should I apply?
+
+You can apply to host a Hack Day at the idea/concept stage! We welcome events at all different stages of planning. Our team will help you host a fantastic Hack Day regardless of how far into the planning process you are.
+
+### What if my event is 24 hours long?
+
+Hack Days are currently geared for events that are 12 hours or less. If you're planning a longer hackathon, it might make more sense to apply for full [MLH Event Membership](https://mlh.link/member-event-application). Email us at league@mlh.io or hackdays@mlh.io if you need help!&#x20;
+
+### Can my event be held digitally?
+
+At this time, we are only supporting Hack Days that are hosted in person. We recommend hosting your Hack Day in venues such as classrooms, lecture halls, libraries, and coworking spaces to avoid booking fees.
+
+### What can I spend my funding on?
+
+In general, you should spend the funding on meals, snacks, and beverages for the event. See Reimbursements for more thorough guidelines.&#x20;
+
+### If registration is already open for my event, do I still need to use MLH's OrganizerHQ platform?
+
+We will work with events on a case-by-case basis. Start an application and send us an email.
+
+### How many people should I target for my event?
+
+The more the merrier! Remember that we're only able to reimburse Hack Days for up to a maximum of 50 checked-in hackers.&#x20;
+
+### Will I get help putting on my event?
+
+Yes! Our goal is to make hosting a Hack Day simple. We want anyone to be able to bring their community together, regardless of whether you have prior organizing experience or not.
+
+### **Is this only for students?**
+
+Not at all! Hack Days are open to everyone, including professionals / non-students!
+
+### **Does my Hack Day need to have a specific theme?**
+
+Nope! Your event can have any theme you like. We provide an opt-in prize for our partners at your event, like “Best Use of Google Gemini,” but you’re welcome to add your own themes and prizes.
+
+### Who should I contact with further questions?
+
+Please send us an email at hackdays@mlh.io!
+
+
+
+================================================
+FILE: organizerhq-tutorial.md
+================================================
+---
+description: All Hack Days are run on OrganizerHQ.
+hidden: true
+---
+
+# OrganizerHQ Tutorial
+
+OrganizerHQ is Major League Hacking's event hosting platform. You will use OHQ to collect registrations and check-ins for your Hack Day.&#x20;
+
+Completing your Hack Day application should result in a fully ready event page. No extra work necessary!
+
+Have any questions or run into any problems while setting up your event? Email us at hackdays@mlh.io and we will help you out.
+
+{% embed url="https://www.youtube.com/watch?t=1s&v=EoqPaBSXMSA" %}
+Watch our 7-minute video on how to setup your event in OHQ.[\
+](https://app.gitbook.com/o/-Lpe-GVZlffiCjUDglxD/s/6oI9YSQkZqynzVXbDFQW/~/diff/~/revisions/B6UCJZojE3gpf2lsimQU/event-planning-guide)
+{% endembed %}
+
+
+
+================================================
+FILE: reimbursements.md
+================================================
+# Reimbursements
+
+Every Hack Day is eligible to receive reimbursements based on the number of hackers who check into the event. For events in the US, we reimburse up to 7 USD per hacker who checks in, with a maximum of 50 hackers (350 USD total). You must check in hackers through your OHQ event portal, so please reach out to hackdays@mlh.io if you are experiencing any trouble registering or checking in participants through the portal.
+
+To be eligible for reimbursement, you must keep your full itemized receipts of any purchases. You will be invited to submit your receipts on Ramp (the financial platform MLH uses).
+
+We offer different reimbursement rates depending on the country in which the Hack Day is organized (see the table below). We use purchasing power parity to calculate a comparable amount of funding in each country. We list reimbursement amounts in USD here. Your reimbursements may be in either USD or your local currency, depending on your banking details and preferences in Ramp.
+
+Food, snacks, and (non-alcoholic) beverages are always reimbursable. Other event expenses may be reimbursable. Please email us at hackdays@mlh.io to double-check ahead of time. Exorbitant costs of any type (typically prizes or swag) may be rejected.
+
+| Country        | Per Hacker | Maximum (50 Hackers) |
+| -------------- | ---------- | -------------------- |
+| United States  | $7.00      | $350                 |
+| Canada         | $5.80      | $290                 |
+| Mexico         | $3.86      | $193                 |
+| United Kingdom | $6.08      | $304                 |
+| India          | $1.69      | $84.5                |
+| Germany        | $5.40      | $270                 |
+| Rwanda         | $1.89      | $95                  |
+| Nigeria        | $0.88      | $44                  |
+| Egypt          | $1.22      | $61.00               |
+| Pakistan       | $1.65      | $82.50               |
+| Kenya          | $2.33      | $116.50              |
+| Brazil         | $3.22      | $161.00              |
+| Nepal          | $1.77      | $88.50               |
+| Romania        | $2.88      | $144.00              |
+| Chile          | $3.38      | $169.00              |
+| Ethiopia       | $2.49      | $124.50              |
+| Togo           | $2.25      | $112.50              |
+| Denmark        | $6.33      | $316.50              |
+| Morocco        | $2.68      | $134.00              |
+| Bangladesh     | $1.88      | $94.00               |
+| Slovokia       | $3.88      | $194.00              |
+| Colombia       | $2.58      | $129.00              |
+| Sweden         | $5.69      | $284.50              |
+
+_Don't see your country listed? Email us at hackdays@mlh.io and we'll add it!_
+
+
+
+================================================
+FILE: SUMMARY.md
+================================================
+# Table of contents
+
+* [About Hack Days](README.md)
+* [Frequently Asked Questions (FAQ)](frequently-asked-questions-faq.md)
+* [Event Planning Guide](event-planning-guide/README.md)
+  * [So You’re Thinking About Organizing a Hack Day](event-planning-guide/so-youre-thinking-about-organizing-a-hack-day.md)
+  * [Hack Day Planning Timeline](event-planning-guide/hack-day-planning-timeline.md)
+  * [Project Submissions and Judging](event-planning-guide/project-submissions-and-judging.md)
+  * [Photography](event-planning-guide/photography.md)
+  * [Hack Day Guide for School Administrators](event-planning-guide/hack-day-guide-for-school-administrators.md)
+* [OrganizerHQ Tutorial](organizerhq-tutorial.md)
+* [Devpost for Hack Days](devpost-for-hack-days.md)
+* [Swag](swag.md)
+* [Reimbursements](reimbursements.md)
+
+## Partner Details
+
+* [Google Gemini](partner-details/google-gemini.md)
+* [MongoDB](partner-details/mongodb.md)
+* [Snowflake](partner-details/snowflake.md)
+* [GitHub](partner-details/github.md)
+
+
+
+================================================
+FILE: swag.md
+================================================
+---
+description: What's in the box?!
+---
+
+# Swag
+
+We will be sending you an event pack full of swag for your event! We include swag based on the expected number of attendees at your event (accounting for some attrition from sign-ups).&#x20;
+
+You should expect to receive the following items:
+
+* [ ] MLH Logo Stickers
+* [ ] MLH Season Stickers
+* [ ] Hack Day I Demoed Stickers (Give these out to hackers who show off their projects!)
+* [ ] Prizes for your top team
+* [ ] Swag from MLH's Partners
+
+
+
+================================================
+FILE: event-planning-guide/README.md
+================================================
+---
+description: >-
+  This guide helps you quickly learn the basics of hosting an awesome Hack Day
+  on campus.
+---
+
+# Event Planning Guide
+
+If you've completed all the steps below, you are ready for your event!&#x20;
+
+### 🏫 Reserving a Venue
+
+* Keep in mind that your venue will require a screen or projector, wifi, and chairs. Ensure you have the necessary equipment to project your presentation from your laptop.
+* We recommend having a table at your venue for check-in and swag distribution. Keep in mind you may need extra tables to distribute food as well.
+* Ensure your venue has wifi that all attendees can access. Now's also a good time to make sure your space has power outlets so folks can keep their laptops charged up!
+
+### 🍕 Select and Order Food
+
+* You do not need to use your funding for pizza. However, it is an affordable option that will allow you to serve a large number of people.
+* Explore the vendors your school partners with for additional discounts on your order.
+* For mini-hackathons, we recommend that you notify your food vendor in advance of the event. You can call a vendor 3-7 days before your event to minimize any last-minute issues.
+* Make sure either you or your vendor is bringing plates, utensils, and napkins if you're providing food. You may be able to grab some of these things from your university or school's dining hall.
+* If you're not providing beverages at your event, we recommend encouraging folks in your pre-event email to bring a refillable water bottle.
+* Keep in mind that MLH only covers reimbursements for people who attend the event. Make sure not to over-order!
+  * Example: I have 60 people registered, but I expect only 50% to show up, so I need to order pizza for 30 people. I expect people to eat two slices each, and each pizza has eight slices. I need at least 60 slices (30 people x 2 slices each), so I'll order eight pizzas for 64 slices.&#x20;
+
+### 💻 Update your Registration Page
+
+* Make sure you are providing the following key information:&#x20;
+  * event start & end time
+  * event location (be specific!)
+  * contact email for questions
+  * event description
+  * information on the food/beverages you plan to provide
+
+### 📦 Plan to Receive MLH Swag Pack
+
+* We will be sending you a bunch of stickers, swag, and prizes! Make sure you have a plan to receive the swag, bring it to your venue, and distribute it to attendees.
+
+### 📧 Email Attendees Reminders & Event Information
+
+* Make sure to send out event reminder emails to your attendees with any new event information. We recommend sending out event reminders: 3 weeks before, 1 week before, the day before, and the day of your event. You can schedule out these emails in advance to save time!
+
+### 🖋️ Requirements
+
+* [ ] During the event, you must do the following;
+  * [ ] Use Major League Hacking's Event Platform (OrganizerHQ) to collect registrations and check-ins.
+  * [ ] Distribute the swag and promotional materials that have been shipped to your team.
+  * [ ] Play a 2-5 minute recorded presentation (provided by us) at your event.
+  * [ ] Collect project submissions on a platform like Devpost.&#x20;
+* [ ] Post-event, you must provide the following to Major League Hacking;
+  * [ ] Event photos
+  * [ ] Event summary
+  * [ ] Project submission data (if on Devpost, we can grab this ourselves!)
+  * [ ] Receipts for all purchases
+
+
+
+================================================
+FILE: event-planning-guide/hack-day-guide-for-school-administrators.md
+================================================
+---
+description: Your Admin Toolkit for a Successful Hack Day
+---
+
+# Hack Day Guide for School Administrators
+
+### Purpose of a Hack Day
+
+Hack Days are **short, educational “invention marathons”** designed to give students hands-on experience with technology and encourage creative problem solving. Unlike full‑scale hackathons, they run for **12 hours or less (as few as 4 hours)** and take place during one day, so there is no overnight stay or multi‑day commitment. Students from any major can participate and learn how to use tools like generative AI. Non-student professionals are also welcome to attend.
+
+### Educational Benefits
+
+* **Learning through teamwork:** Students work in teams to identify problems, brainstorm solutions and build prototypes.
+* **Skill development:** Participants practice collaboration, project management and communication skills, as well as technical skills in coding, design and data analysis.
+* **Community building:** Hack Days can strengthen ties between departments, school clubs, technology societies, or entrepreneurial programs.
+
+### What Administrators Should Know
+
+* **Logistics**: Organizers need a classroom or meeting space with reliable Wi‑Fi, a projector and plenty of power outlets. MLH can provide swag; the institution should ensure that the venue complies with fire codes and accessibility requirements. Most Hack Days run on a weekend day, beginning mid‑morning and ending in the evening. However, they can run on a weekday or an alternative time if it is more convenient for participants.
+* **Registrations**: Organizers are required to show a short pre‑recorded presentation, collect registrations/check‑ins through MLH and facilitate project submissions.
+* **Funding and reimbursements**: MLH reimburses food expenses (e.g., meals, snacks, non‑alcoholic beverages) up to a per‑attendee limit; U.S. events receive up to $7 USD per participant and up to $350 USD total, with adjusted rates for other countries. Organizers must keep itemised receipts and submit them via MLH’s finance platform.
+* **Risk management**: Because Hack Days are short and typically end before late night, they pose fewer security risks than overnight events. However, administrators should confirm that any minors have proper permissions and that campus policies (e.g., visitor policies, insurance) are followed. Organizers, volunteers, mentors, and hackers must adhere to [MLH’s Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md) and should consult the institution’s guidelines on event safety.
+* **Support**: Encourage faculty or staff advisors to act as points of contact during the event, helping to resolve issues and ensuring compliance with school policies. MLH staff are available via email at hackdays@mlh.io for clarification.
+
+### How Administrators Can Help
+
+1. **Approve and reserve space** – Work with student organizers to book an appropriate room and ensure all audiovisual equipment (projector, microphones) is functional.
+2. **Ensure compliance** – Verify that the event aligns with the institution’s policies on liability, visitor access and inclusivity. Provide guidance on working with minors if applicable.
+3. **Provide mentorship and connections** – Connect organizers with faculty who can serve as mentors or judges, and encourage departments to promote the event to a broad audience.
+4. **Promote campus community** – Support the organizers’ efforts to reach students from all years, backgrounds, and majors throughout the campus community. Communicate to students that Hack Days are low-barrier events, team-based, and will be supported by experienced organizers to help them grow, no matter their experience level. Utilize your broad knowledge of campus activities and groups to help organizers tailor their advertisements to maximize their impact.
+5. **Encourage reflection** – After the event, ask organizers to share outcomes, photos and lessons learned. This can inform future events and demonstrate the educational impact of Hack Days.
+
+### In Summary
+
+Hack Days are a **low‑barrier, high‑impact** way for students to engage with technology, build community and practise creative problem solving. By providing logistical support, funding and mentorship, administrators can help their students host safe, inclusive and successful events. The MLH Hack Days program offers a structured framework—complete with registration tools, swag packs, a simple reimbursement process and expert guidance—to make it easy for schools to bring Hack Days to campus.
+
+
+
+
+================================================
+FILE: event-planning-guide/hack-day-planning-timeline.md
+================================================
+# Hack Day Planning Timeline
+
+#### 1-2 Months Before
+
+* [Apply to host](https://organize.mlh.io/host/google-gemini-hack-days)
+* [Identify date & time](https://guide.mlh.io/general-information/finding-the-date-and-purpose) - remember, Hack Day events should be 12 hours or less (we’ve approved events as short as four hours). Remember to target at least one month out from your application date.
+* [Secure a venue](https://guide.mlh.io/general-information/locking-down-a-venue)
+* [Start outreach](https://guide.mlh.io/general-information/marketing-your-event/promoting-your-event)
+
+#### 2-3 Weeks Before
+
+* [Finalize and order from your food vendors](https://guide.mlh.io/general-information/event-logistics/working-with-food-vendors)
+* [Plan event logistics](https://guide.mlh.io/general-information/event-logistics)
+* [Set up your registration page on OrganizerHQ](https://guide.mlh.io/general-information/managing-registrations/registrations)
+* [Draft schedule](https://guide.mlh.io/general-information/hackathon-scheduling/detailed-run-of-show)
+
+#### 1 Week Before
+
+* [Send reminders](https://guide.mlh.io/general-information/managing-registrations/sending-reminders)
+* Finalize headcount
+* Receive MLH swag
+* [Prepare emergency plan](https://guide.mlh.io/general-information/event-logistics/prepare-your-emergency-plan)
+
+#### Day of the Event
+
+* [Set up your event](https://guide.mlh.io/general-information/event-logistics/set-up-your-event)
+* [Check-in process](https://guide.mlh.io/general-information/managing-registrations/check-in-process)
+* Welcome attendees
+* [Distribute meals](https://guide.mlh.io/general-information/event-logistics/distributing-meals)
+* Facilitate projects
+* [Run workshops/mini-events](https://guide.mlh.io/general-information/day-of-logistics-and-hacker-experience/workshops)
+* [Judging and submissions](https://guide.mlh.io/general-information/judging-and-submissions)
+* Announce winners
+
+#### After the Event
+
+* Submit receipts
+* Provide feedback
+* Encourage reflection
+
+
+
+================================================
+FILE: event-planning-guide/photography.md
+================================================
+# Photography
+
+If you can take photos/videos of your event, we'd love to see them. Photos really help us ensure we have funding to support additional events like yours.
+
+### Things to Highlight:
+
+There are several opportunities for photos at the event:
+
+* Photos of hackers visibly collaborating: Candid pictures of hackers working together.
+* Hackathon branding is important: We love to see the personal flair that each hackathon has! This is your opportunity to showcase the theme of your hackathon (if there is one) along with your swag, signage, and branding.
+* Anything that makes the hackathon unique: Some hackathons have animals, salsa dancing, coffee-making lessons, etc. These are all fun additions to showcase at the hackathon.
+* Hackers laughing or smiling together: Hackathons are fun! Be sure to highlight that.&#x20;
+* Switch it up: We like to have a good mix of photos to summarize a hackathon weekend. Try to get some candid work photos, like people hanging out, friends posing for a group shot, etc.&#x20;
+* Opening Ceremony / Closing Ceremony: Try to get a photo of each speaker/group at the closing ceremony, particularly the teams demoing their apps and the winning teams.
+* Mini-Events:  If you're hosting any mini-events, these can be an excellent opportunity to get unique photos.
+* Branding: Please get at least a few photos of Major League Hacking (MLH) branding and swag in the context of the larger event. Please also do the same for the sponsors that are present at your event.&#x20;
+* Underrepresented Groups: We believe that showcasing a diverse group of people at our events is a key way to make newcomers feel welcome. Please attempt to get some photos highlighting women & minorities’ participation in the event.
+* Light: Hackathons are typically indoor, poorly-lit events. Do your best to account for and be aware of this constraint!
+
+### What to Avoid:
+
+Certain things do not look good in photos. Here are a few examples below.
+
+* Food: Hacker workstations with empty wrappers, drinks, and half-eaten slices of pizza often appear messy in photos.
+  * This does not apply to organizers and volunteers serving food for breakfast, lunch, and dinner. We love to see people working together!
+* Photos of people with their shoes off: We may use these photos on our website, branding materials, etc., so the cleaner the environment in the pictures, the better.
+* Close-up headshots: We do not need close-up individual photos of people smiling. We want to really showcase what the hackers are working on.
+* Filters:  It’s preferred that you do not use software filters on the photos you take.
+* Sleeping: DO NOT take photos of sleeping participants.
+
+
+
+================================================
+FILE: event-planning-guide/project-submissions-and-judging.md
+================================================
+# Project Submissions and Judging
+
+### Project Submissions
+
+Please add [league+devpost@mlh.io](mailto:league+devpost@mlh.io) to your Devpost page.
+
+Once we have your draft or live Devpost page, we will add Prize Categories and a few submission questions to the page.
+
+### Judging
+
+We will send you prizes to distribute to the winners of any MLH Prize Categories.
+
+Please distribute all prizes to the hackers (after your winning team receives them, raffle off extras, or give away a second-place award).
+
+We're pretty flexible on the judging criteria for our prize categories. We often tell folks to select the project they think is the coolest or that they're most excited about.
+
+
+
+================================================
+FILE: event-planning-guide/so-youre-thinking-about-organizing-a-hack-day.md
+================================================
+---
+description: Everything you need to know about hosting a Hack Day!
+---
+
+# So You’re Thinking About Organizing a Hack Day
+
+### Why Organize a Hack Day?
+
+Hosting a Hack Day is a great way to
+
+* Build community: A short, low‑commitment hackathon fosters collaboration and networking amongst members.
+* Develop leadership skills: Organizing an event teaches project management, team coordination, and event planning.
+* Encourage innovation: Hack Days encourage participants to experiment with new tools such as the Google Gemini API.
+
+Access MLH support: Organizers receive swag, prizes, and reimbursements for food.
+
+### Getting Started: High‑Level Steps
+
+MLH makes it straightforward to host a Hack Day. Make sure to reference our [Event Planning Guide](https://mlh.gitbook.io/hack-days/~/revisions/BoPJLEhibbHxmfNR5D9K/event-planning-guide) for a more detailed breakdown of these steps! The key steps are:
+
+1. **Apply to host** – Submit a short application through MLH’s OrganizerHQ platform. You can apply even at the idea stage; it only takes a few minutes.
+2. **Secure a venue** – Reserve a classroom, library room or other space with a projector, chairs and reliable Wi‑Fi. Make sure power outlets are available so attendees can charge laptops.
+3. **Collect registrations** – Once approved, use OrganizerHQ to handle registrations and check‑ins. Update your registration page with the event time and location, contact information, a short description and information about food or beverages.
+4. **Plan food and logistics** – Decide what you will serve (pizza can be an affordable option). Order from vendors that partner with your school and notify them 3–7 days before the event. Bring plates, utensils and napkins, and encourage attendees to bring refillable water bottles.
+5. **Receive and distribute swag** – MLH ships a swag pack with stickers, prizes and branded goodies; arrange to receive it and plan how you’ll hand it out. You’ll also need to play a 2–5 minute recorded presentation from MLH during the event and use MLH’s platform for check‑ins.
+6. **Run the event** – On the day, welcome attendees, show the recorded presentation, and share your event schedule. Encourage hackers to form teams and brainstorm projects. To enter the Google Gemini prize, teams should integrate the Gemini API. Remind participants to submit their projects on Devpost.
+7. **Wrap up and follow up** – At the end, announce winners and distribute prizes. Afterwards, submit your receipts for reimbursement and provide MLH with event photos, an event summary, and project submission data. Keep your receipts; U.S. events receive up to $7 USD per attendee (max $350 USD), while rates vary for other countries.
+
+### Tips for a Great Hack Day
+
+* **Scope the event:** Plan for a realistic number of participants, keeping in mind that reimbursements cover up to 50 checked‑in hackers. Adjust food and supplies accordingly.
+* **Communicate early and often:** Send reminder emails three weeks, one week, the day before and the day of the event. Encourage participants to read the [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md) and prepare any necessary software.
+* **Create an inclusive environment:** Make sure the venue is accessible, and encourage diverse hacker participation through intentional outreach.
+* **Leverage mentors:** Recruit experienced students or alumni to help participants with ideas and troubleshooting. Encourage participants to explore Google’s AI tools and share what they learn.
+* **Take photos:** Photos help us to continue supporting events like yours! Please avoid posting unflattering photos (e.g., messy tables or close‑up headshots).
+* **Stay flexible:** It’s okay if the schedule or participant count changes. Focus on providing a supportive space for learning and collaboration.
+
+
+
+================================================
+FILE: partner-details/github.md
+================================================
+# GitHub
+
+The collaboration between MLH and GitHub is specifically designed to support **High School** organizers in the **United States (US) only**. If your event does not meet both criteria, you are encouraged to apply for a [Google Gemini Hack Day](google-gemini.md) instead. Please note that Gemini events require participants to be 18 years of age or older.
+
+{% hint style="info" %}
+**Start Your Application:** [https://organize.mlh.io/host/github-hack-days](https://organize.mlh.io/host/github-hack-days)
+{% endhint %}
+
+
+
+
+================================================
+FILE: partner-details/google-gemini.md
+================================================
+# Google Gemini
+
+Google supports Major League Hacking and our Hack Days program. Google has tons of awesome AI-powered tools for hackers to leverage during your event, but we specifically encourage hackers to explore Google AI Studio and the Google Gemini APIs.
+
+As part of hosting a Hack Day, you'll run a Best Use of Google Gemini prize category. Here's a description of the prize, which should be added to your Devpost page:
+
+{% hint style="info" %}
+**Start Your Application:** [https://organize.mlh.io/host/google-gemini-hack-days​](https://organize.mlh.io/host/google-gemini-hack-days%E2%80%8B)
+{% endhint %}
+
+### Best Use of Gemini API
+
+**Google Swag**
+
+It’s time to push the boundaries of what's possible with AI using Google Gemini. Check out the Gemini API to build AI-powered apps that make your friends say WHOA. So, what can Gemini do for your hackathon project?
+
+* Understand language like a human and build a chatbot that gives personalized advice
+* Analyze info like a supercomputer and create an app that summarizes complex research papers
+* Generate creative content like code, scripts, music, and more
+
+Think of the possibilities… what will you build with the Google Gemini API this weekend?
+
+### Slides
+
+Upon event approval, you will receive a set of slides as part of the official onboarding packet. You should present these slides to participants as part of your opening ceremony.
+
+### Judging Info
+
+The most important thing is to validate they're actually using the Gemini API in their app.\\
+
+
+
+================================================
+FILE: partner-details/mongodb.md
+================================================
+---
+hidden: true
+---
+
+# MongoDB
+
+We're looking for \~10 organizers in the US to help us pilot a special new version of Hack Days with MongoDB. If you're interested in alpha testing this program with us, please start a MongoDB Hack Day application below!
+
+{% hint style="info" %}
+**Start Your Application:** [**https://organize.mlh.io/host/mongodb-hack-days**](https://organize.mlh.io/host/mongodb-hack-days)
+{% endhint %}
+
+As part of hosting a Hack Day, you'll run a Best Use of MongoDB Atlas prize category. Here's a description of the prize, which should be added to your Devpost page:
+
+### Best Use of MongoDB Atlas
+
+**M5GO IoT Starter Kit**
+
+MongoDB Atlas takes the leading modern database and makes it accessible in the cloud! Get started with a [**$50 credit for students**](https://mlh.link/mongodb) or sign up for the [**Atlas free forever tier**](https://mlh.link/mongodb-free) (no credit card required). Along with a suite of services and functionalities, you'll have everything you need to manage all of your data, and you can get a headstart with [**free resources from MongoDB University**](https://mlh.link/mongodb-university)! Build a hack using MongoDB Atlas for a chance to win a M5GO IoT Starter Kit for you and each member of your team.
+
+### Slides
+
+Upon event approval, you will receive a set of slides as part of the official onboarding packet. You should present these slides to participants as part of your opening ceremony.
+
+### Judging Info
+
+The most important thing is to validate they're actually using the MongoDB Atlas service in their app.\\
+
+
+
+================================================
+FILE: partner-details/snowflake.md
+================================================
+# Snowflake
+
+We're looking for \~5 organizers in the US to help us pilot a special new version of Hack Days with Snowflake. If you're interested in alpha testing this program with us, please start a Snowflake Hack Day application below!
+
+{% hint style="info" %}
+**Start Your Application:** [**https://organize.mlh.io/host/snowflake-hack-days**](https://organize.mlh.io/host/mongodb-hack-days)
+{% endhint %}
+
+As part of hosting a Hack Day, you'll run a Best Use of Snowflake prize category. Here's a description of the prize, which should be added to your Devpost page:
+
+### Best Use of Snowflake
+
+**Arduino Tiny Machine Learn Kit**
+
+Play with industry-leading LLMs on a single account using the Snowflake APIs. Adding AI capabilities into your application can be as simple as a single CURL command to Snowflake's REST API.
+
+Build customized applications, RAG powered chat bots, or embed AI-powered features into your app in half the time with half the hassle. Get started for free with a special, student 120-day Snowflake trial and check out this repository for an example of the Snowflake REST API in action.
+
+### Slides
+
+Upon event approval, you will receive a set of slides as part of the official onboarding packet. You should present these slides to participants as part of your opening ceremony.
+
+### Judging Info
+
+You can reference the [Snowflake Demo Project](https://mlh.link/snowflake-demo) (also linked above) to see how Snowflake packages are referenced and how the API is leveraged in a Python code repository. \
+\
+Once you've confirmed Snowflake usage, choose the highest quality project with the most fleshed out usage of Snowflake's AI capabilities.&#x20;
+
+
